@@ -1,165 +1,209 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:030303,45:260000,100:990000&text=SAHIL%20NINNAD&fontColor=ffffff&fontSize=65&fontAlignY=43&desc=CYBERSECURITY%20RESEARCHER%20%7C%20SECURITY%20ENGINEER&descSize=15&descAlignY=65&animation=fadeIn"/>
+
 <br/>
 
-# SAHIL NINNAD
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=900&color=FF3030&center=true&vCenter=true&width=750&lines=SECURITY+IS+A+CONTINUOUS+PROCESS;ANALYZE+%7C+RESEARCH+%7C+ENGINEER+%7C+DEFEND;OFFENSIVE+SECURITY+%7C+DEFENSIVE+SECURITY;BUILDING+INTELLIGENT+SECURITY+SOLUTIONS."/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/IDENTITY-SAHIL%20NINNAD-990000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLASSIFICATION-CYBERSECURITY-111111?style=for-the-badge&logo=hackthebox&logoColor=red"/>
+<img src="https://img.shields.io/badge/ENVIRONMENT-KALI%20LINUX-111111?style=for-the-badge&logo=kalilinux&logoColor=red"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+## [ 01 ] — PROFESSIONAL IDENTITY
 
 **CYBERSECURITY RESEARCHER**
 
-Security Research / Engineering / Analysis
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B1018&height=2&section=header" width="100%"/>
+*Understanding vulnerabilities. Engineering defenses. Advancing security.*
 
 </div>
 
-## PROFILE
+```bash
+┌──(sahil㉿security-lab)-[~]
+└─$ ./identity --profile
 
-I am Sahil Ninnad, focused on cybersecurity, security research, and the engineering of practical security solutions.
+[IDENTITY]
+  Name         : Sahil Ninnad
+  Designation  : Cybersecurity Researcher
+  Field        : Information Security
+  Environment  : Kali Linux / Linux
+  Philosophy   : Security Through Knowledge
 
-My interests lie in understanding complex systems, analyzing security weaknesses, investigating suspicious activity, and developing tools that improve visibility and defensive capabilities.
+[RESEARCH INTERESTS]
+  > Ethical Hacking
+  > Network Security
+  > Threat Intelligence
+  > Vulnerability Research
+  > Digital Forensics
+  > Security Engineering
+  > Defensive Security
 
-I approach technical challenges through structured research, controlled experimentation, and evidence-based engineering.
-
-My work is driven by curiosity, technical discipline, and a commitment to continuous development.
+[OBJECTIVE]
+  Research emerging threats, understand attack surfaces,
+  engineer security tools and strengthen digital defense.
+```
 
 ---
 
-## AREAS OF INTEREST
+## [ 02 ] — TECHNICAL ARSENAL
 
-| DOMAIN | FOCUS |
+<div align="center">
+
+**OPERATING SYSTEMS**
+
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows&theme=dark"/>
+
+<br/><br/>
+
+**PROGRAMMING & AUTOMATION**
+
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js,html,css,mysql,git,github&theme=dark"/>
+
+<br/><br/>
+
+**SECURITY TECHNOLOGIES**
+
+<img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/METASPLOIT-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NMAP-222222?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=red"/>
+
+</div>
+
+---
+
+## [ 03 ] — SECURITY RESEARCH DOMAINS
+
+| RESEARCH DIVISION | TECHNICAL FOCUS |
 |:---|:---|
-| Security Research | System security and vulnerability analysis |
-| Network Security | Network traffic and connection analysis |
-| Threat Detection | Suspicious activity identification |
-| Security Engineering | Design and development of security tools |
-| Linux Security | System administration and hardening |
-| Security Automation | Python and Bash-based workflows |
-| Application Security | Secure development and assessment |
+| Offensive Security | Authorized Security Assessment |
+| Defensive Security | Detection & Prevention |
+| Network Intelligence | Traffic Analysis |
+| Threat Hunting | Suspicious Activity Investigation |
+| Vulnerability Research | Security Weakness Analysis |
+| Digital Forensics | Incident Investigation |
+| Security Engineering | Security Tool Development |
+| Linux Security | System Hardening |
 
 ---
 
-## TECHNICAL ENVIRONMENT
+## [ 04 ] — ENGINEERING PROJECTS
 
-**PROGRAMMING**
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js,mysql&theme=dark"/>
-</p>
+<img src="https://img.shields.io/badge/PROJECT%20DIVISION-SECURITY%20ENGINEERING-990000?style=for-the-badge"/>
 
-**PLATFORMS**
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,git,github&theme=dark"/>
-</p>
+### 01 — MASTER MIND THREAT HUNTER
 
-**SECURITY ECOSYSTEM**
+<sub>HOST SECURITY / THREAT DETECTION / INCIDENT RESPONSE</sub>
 
-<p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-222222?style=flat-square"/>
-</p>
+A security monitoring project focused on identifying suspicious outbound network activity, investigating potential threats and supporting controlled defensive responses.
 
----
-
-## SELECTED WORK
-
-### MASTER MIND THREAT HUNTER
-
-`DEFENSIVE SECURITY / THREAT MONITORING`
-
-A security monitoring initiative focused on identifying suspicious outbound connections, investigating potentially malicious activity, and supporting controlled defensive responses.
-
-**Engineering scope**
-
-- Host and network activity visibility
-- Suspicious connection investigation
-- Security event analysis
-- Controlled response architecture
+**Architecture Focus**
+- Host-based monitoring
+- Network connection analysis
+- Threat investigation
+- Approval-based response workflow
 - Terminal-based monitoring interface
 
-### WRAITH-X
+### 02 — WRAITH-X
 
-`PORTABLE SECURITY RESEARCH / LINUX`
+<sub>PORTABLE CYBERSECURITY WORKSTATION</sub>
 
-A portable cybersecurity workstation concept built around Raspberry Pi and Linux technologies for authorized security research and auditing.
+A Raspberry Pi-based portable security research workstation concept designed around Linux, a terminal interface and authorized security auditing.
 
-**Engineering scope**
+**Architecture Focus**
+- Raspberry Pi platform
+- Kali Linux environment
+- Portable hardware architecture
+- Security research utilities
+- Terminal-based interface
 
-- Portable Linux architecture
-- Modular hardware integration
-- Security research environment
-- Terminal-oriented interface
+### 03 — SECURITY AUTOMATION LAB
 
-### SECURITY AUTOMATION LAB
+<sub>PYTHON / BASH / DEFENSIVE AUTOMATION</sub>
 
-`PYTHON / BASH / AUTOMATION`
+Experimental development environment for building security utilities, automating analysis and improving defensive workflows.
 
-A development environment for experimenting with security utilities and automating repetitive defensive analysis workflows.
-
-**Engineering scope**
-
-- Python-based utilities
-- Bash automation
-- Log analysis
+**Architecture Focus**
+- Python automation
+- Bash utilities
 - System monitoring
-- Reproducible testing
+- Log analysis
+- Security research experiments
 
 ---
 
-## ENGINEERING PRINCIPLES
-
-My approach to security engineering follows a structured process:
-
-| STAGE | OBJECTIVE |
-|:---|:---|
-| Research | Understand the technology and its attack surface |
-| Analysis | Evaluate behavior, risks and weaknesses |
-| Design | Develop an appropriate technical architecture |
-| Implementation | Build maintainable solutions |
-| Validation | Verify behavior through controlled testing |
-| Documentation | Record findings and limitations |
-
----
-
-## GITHUB ACTIVITY
+## [ 05 ] — GITHUB PERFORMANCE
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SENSOO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C43B45&icon_color=C43B45&text_color=CCCCCC"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SENSOO&show_icons=true&hide_border=true&bg_color=050505&title_color=FF3030&icon_color=FF0000&text_color=E0E0E0&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENSOO&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C43B45&text_color=CCCCCC"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENSOO&layout=compact&hide_border=true&bg_color=050505&title_color=FF3030&text_color=E0E0E0"/>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=SENSOO&theme=dark&hide_border=true&background=050505&ring=FF0000&fire=FF3333&currStreakLabel=FF3333"/>
 
 </div>
 
 ---
 
-## PROFESSIONAL DEVELOPMENT
+## [ 06 ] — CONTRIBUTION MATRIX
 
-Current areas of continued development:
+<div align="center">
 
-- Advanced networking and Linux fundamentals
-- Python-based security engineering
-- Defensive monitoring and threat investigation
-- Vulnerability assessment methodologies
-- System architecture and software quality
-- Technical research and documentation
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SENSOO&bg_color=050505&color=FF3333&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
 
 ---
 
-## CONTACT
+## [ 07 ] — PROFESSIONAL PHILOSOPHY
 
-<div align="left">
+```text
+01. Understand the system before testing it.
+02. Research before making assumptions.
+03. Validate findings with evidence.
+04. Automate repetitive security workflows.
+05. Build with responsibility and purpose.
+06. Never stop learning.
+```
 
-**SAHIL NINNAD**
+> "A security researcher doesn't just look for vulnerabilities. They understand why they exist, how they impact systems, and how to prevent them."
 
-Cybersecurity Researcher
+---
 
-[GitHub](https://github.com/SENSOO) · [LinkedIn](https://www.linkedin.com/)
+## [ 08 ] — CONTACT & NETWORK
+
+<div align="center">
+
+<a href="https://github.com/SENSOO">
+<img src="https://img.shields.io/badge/GITHUB-TECHNICAL%20PORTFOLIO-990000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL%20NETWORK-111111?style=for-the-badge&logo=linkedin&logoColor=red"/>
+</a>
+
+<br/><br/>
 
 </div>
 
@@ -167,14 +211,16 @@ Cybersecurity Researcher
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B1018&height=2&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:990000,50:350000,100:030303&height=130&section=footer"/>
 
-<br/>
+### SAHIL NINNAD
 
-**SAHIL NINNAD**
+**CYBERSECURITY RESEARCHER**
 
-*Security is engineered, not assumed.*
+`RESEARCH // ENGINEER // ANALYZE // DEFEND`
 
-<sub>CYBERSECURITY · RESEARCH · ENGINEERING</sub>
+<img src="https://komarev.com/ghpvc/?username=SENSOO&style=for-the-badge&color=990000&label=PROFILE+VISITORS"/>
+
+<sub>INFORMATION SECURITY • SECURITY RESEARCH • ENGINEERING</sub>
 
 </div>
